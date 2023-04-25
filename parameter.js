@@ -1,11 +1,11 @@
-// function bringSingara(money){
-//     console.log("mama singara den");
-// console.log(money);
-// }
+function bringSingara(money){
+    console.log("mama singara den");
+console.log(money);
+}
 
 
 
-// bringSingara(500);
+bringSingara(500);
 
 
 function sum (a,b,c,d,e,f,g){
